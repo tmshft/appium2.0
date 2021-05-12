@@ -1,0 +1,21 @@
+[ {
+  "uid" : "2ea0ce7c64de7d72",
+  "name" : "[1] ios",
+  "time" : {
+    "start" : 1620822338598,
+    "stop" : 1620822339856,
+    "duration" : 1258
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "10cf9825578e6374",
+  "name" : "[2] android",
+  "time" : {
+    "start" : 1620822340050,
+    "stop" : 1620822340096,
+    "duration" : 46
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]

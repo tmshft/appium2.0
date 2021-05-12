@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Wed May 12 12:25:38 UTC 2021","Wed May 12 12:25:39 UTC 2021","1258","","jp.shiftinc.automation.trial.TestMobileApp","","jp.shiftinc.automation.trial.TestMobileApp","imageSelectorTest","[1] ios",""
+"broken","Wed May 12 12:25:40 UTC 2021","Wed May 12 12:25:40 UTC 2021","46","","jp.shiftinc.automation.trial.TestMobileApp","","jp.shiftinc.automation.trial.TestMobileApp","imageSelectorTest","[2] android",""

@@ -1,0 +1,35 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "jp.shiftinc.automation.trial.TestMobileApp",
+    "children" : [ {
+      "name" : "[1] ios",
+      "uid" : "2ea0ce7c64de7d72",
+      "parentUid" : "46258ba5f8150126f36cc0c5f3008df8",
+      "status" : "broken",
+      "time" : {
+        "start" : 1620822338598,
+        "stop" : 1620822339856,
+        "duration" : 1258
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "[2] android",
+      "uid" : "10cf9825578e6374",
+      "parentUid" : "46258ba5f8150126f36cc0c5f3008df8",
+      "status" : "broken",
+      "time" : {
+        "start" : 1620822340050,
+        "stop" : 1620822340096,
+        "duration" : 46
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "46258ba5f8150126f36cc0c5f3008df8"
+  } ],
+  "name" : "suites"
+}

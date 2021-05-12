@@ -1,0 +1,35 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "jp.shiftinc.automation.trial.TestMobileApp",
+    "children" : [ {
+      "name" : "imageSelectorTest",
+      "uid" : "2ea0ce7c64de7d72",
+      "parentUid" : "8614985c38de061158767926c1502d0d",
+      "status" : "broken",
+      "time" : {
+        "start" : 1620822338598,
+        "stop" : 1620822339856,
+        "duration" : 1258
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "imageSelectorTest",
+      "uid" : "10cf9825578e6374",
+      "parentUid" : "8614985c38de061158767926c1502d0d",
+      "status" : "broken",
+      "time" : {
+        "start" : 1620822340050,
+        "stop" : 1620822340096,
+        "duration" : 46
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "jp.shiftinc.automation.trial.TestMobileApp"
+  } ],
+  "name" : "packages"
+}
