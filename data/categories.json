@@ -3,39 +3,39 @@
   "children" : [ {
     "name" : "Test defects",
     "children" : [ {
-      "name" : "Unable to create a new remote session. Please check the server log for more details. Original error: The requested resource could not be found, or a request was received using an HTTP method that is not supported by the mapped resource (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 515 milliseconds\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Mac-1620820331456.local', ip: '10.213.3.136', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.7', java.version: '1.8.0_292'\nDriver info: driver.version: IOSDriver\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Mac-1620820331456.local', ip: '10.213.3.136', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.7', java.version: '1.8.0_292'\nDriver info: driver.version: IOSDriver",
+      "name" : "Unable to create a new remote session. Please check the server log for more details. Original error: The requested resource could not be found, or a request was received using an HTTP method that is not supported by the mapped resource (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 274 milliseconds\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Mac-1620822243252.local', ip: '10.79.0.83', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.7', java.version: '1.8.0_292'\nDriver info: driver.version: IOSDriver\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Mac-1620822243252.local', ip: '10.79.0.83', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.7', java.version: '1.8.0_292'\nDriver info: driver.version: IOSDriver",
       "children" : [ {
         "name" : "[1] ios",
-        "uid" : "2ea0ce7c64de7d72",
-        "parentUid" : "7eacf24a0818c47ceab929fb1ff8f467",
+        "uid" : "46e3a6762b43c8af",
+        "parentUid" : "299680d7933b26a2e84ceb4b60190152",
         "status" : "broken",
         "time" : {
-          "start" : 1620822338598,
-          "stop" : 1620822339856,
-          "duration" : 1258
+          "start" : 1620824211285,
+          "stop" : 1620824212419,
+          "duration" : 1134
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "7eacf24a0818c47ceab929fb1ff8f467"
+      "uid" : "299680d7933b26a2e84ceb4b60190152"
     }, {
-      "name" : "Unable to create a new remote session. Please check the server log for more details. Original error: The requested resource could not be found, or a request was received using an HTTP method that is not supported by the mapped resource (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 16 milliseconds\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Mac-1620820331456.local', ip: '10.213.3.136', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.7', java.version: '1.8.0_292'\nDriver info: driver.version: AndroidDriver\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Mac-1620820331456.local', ip: '10.213.3.136', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.7', java.version: '1.8.0_292'\nDriver info: driver.version: AndroidDriver",
+      "name" : "Unable to create a new remote session. Please check the server log for more details. Original error: The requested resource could not be found, or a request was received using an HTTP method that is not supported by the mapped resource (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 16 milliseconds\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Mac-1620822243252.local', ip: '10.79.0.83', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.7', java.version: '1.8.0_292'\nDriver info: driver.version: AndroidDriver\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Mac-1620822243252.local', ip: '10.79.0.83', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.7', java.version: '1.8.0_292'\nDriver info: driver.version: AndroidDriver",
       "children" : [ {
         "name" : "[2] android",
-        "uid" : "10cf9825578e6374",
-        "parentUid" : "d0475894e8849c533863cc2bd9c14fcb",
+        "uid" : "686094fe9de2a975",
+        "parentUid" : "fb9dfa681b332cda411b1045eebcde60",
         "status" : "broken",
         "time" : {
-          "start" : 1620822340050,
-          "stop" : 1620822340096,
-          "duration" : 46
+          "start" : 1620824212633,
+          "stop" : 1620824212694,
+          "duration" : 61
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "d0475894e8849c533863cc2bd9c14fcb"
+      "uid" : "fb9dfa681b332cda411b1045eebcde60"
     } ],
     "uid" : "bdbf199525818fae7a8651db9eafe741"
   } ],
