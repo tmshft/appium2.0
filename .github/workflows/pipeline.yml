@@ -28,9 +28,11 @@ jobs:
           npm install -g opencv4nodejs
           brew install ffmpeg
 
-      - name: set up Appium
+      - name: set up Appium2.0
         run: |
-          npm install -g appium@1.18.3
+          npm install -g appium@next
+          appium driver install xcuitest
+          appium driver install uiautomator2
           appium --log-timestamp --log-no-colors > appium.log &
 
       - name: Run tests
